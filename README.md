@@ -12,3 +12,16 @@ To predict whether a client will subscribe to a term deposit. By identifying sev
 - Increase conversion rate, by focusing marketing efforts on high probability lead.
 - Optimize resource allocation, reduce the number of unnecessary calls or low probability client, so it can lowering the operational cost.
 - Understand which factors that most significantly influence client decision
+
+## Insights from EDA
+### Overall Conversion Rate
+![Overall Campaign Conversion Rate](overall-conversion-rate.png)
+There is a significant rejection rate of 88.3% compared to 11.7% conversion rate which suggest that the current calling strategy is still inefficient. This indicates a clear need a more targeted client, data driven approach  rather than contacting every client from the database.
+
+### Annual Account Balance Distribution
+![Account Balance Distribution](account-balance-distribution.png)
+Clients who chose to subscribe the offer have a higher median balance compared to those who rejected it. It indicates that clients with high liquidity tend to prefer using deposits.
+
+
+
+
