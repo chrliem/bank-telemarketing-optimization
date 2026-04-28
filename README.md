@@ -22,6 +22,27 @@ There is a significant rejection rate of 88.3% compared to 11.7% conversion rate
 ![Account Balance Distribution](account-balance-distribution.png)
 Clients who chose to subscribe the offer have a higher median balance compared to those who rejected it. It indicates that clients with high liquidity tend to prefer using deposits.
 
+### Conversion Rate based on Number of Calls
+![Conversion Rate vs Nummber of Calls](conversion-rate-on-attempt.png)
+Conversion rates reached the peak at the first contact, remain stable through the second and third attempts before decreasing significantly in subsequent calls. It suggest that a threshold of three attempts per campaign should be more effective to prevent customer fatigue. p.s the maximum 6 attemps in this graph is the result of capping to reduce the outliers. 
+
+### Client Demographic Distributon
+![Client Age Distributon](client-age-dist-and-subs.png)
+The campaign primarily reaches clients in the 30–40 age bracket, representing the highest volume of contacts. However, this demographic also yields the highest rejection.
+![Client Job Distribution](conversion-rate-by-job.png)
+From the occupation, students and retired clients show the highest conversion rates compared to others. This can be an indication that groups with specific financial life stages are a good target for this product.
+![Client Education](conversion-rate-based-education.png)
+Clients with tertiary education demonstrate a higher conversion rate compared to others. This might suggest that higher financial literacy or more stable professional income levels contribute to decision making for long term investment. 
+
+From this three indicators, while high education levels positively correlate with higher conversion rates, this effect still influenced by client's life stage. The 30-40 age group, despite being well-educated, they often faces the middle-age financial squeeze that might override their will to save. But, for the student and retired segments, they represent high-conversion due to lower debt or loan burdens and probably have more specific financial goals.
+
+The assumption of loan burdens indicated in this graph below where client that has housing loan and/or personal loan tend to reject the subscription. 
+![Client Education](conversion-rate-based-on-load.png)
+
+
+
+
+
 
 
 
