@@ -52,7 +52,7 @@ For the model selection, XGBoost and Random Forest were compared.
 
 ![Confusion Matrix Comparison](confusion-matrix.png)
 
-"XGBoost demonstrates higher Precision (58.2%) compared to Random Forest for Class 1 (Yes). From a reliability perspective, although the Recall remains low (0.29) due to the intentional removal of the 'duration' feature, XGBoost achieved higher F1-score, indicating more stable and balanced model performance
+XGBoost demonstrates higher Precision (58.2%) compared to Random Forest for Class 1 (Yes). From a reliability perspective, although the Recall remains low (0.29) due to the intentional removal of the 'duration' feature, XGBoost achieved higher F1-score, indicating more stable and balanced model performance
 
 ![Client Education](model-perfomance-yes.png)
 
